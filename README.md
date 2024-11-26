@@ -23,7 +23,7 @@ management of assets, and high operational costs. Conventional methods
 of supervising and managing supply chain activities are not sufficient 
 anymore to cater to these problems efficiently. 
 
-**Emerging Technology - Digital Twins**: By creating virtual copies of processes, physical assets, and systems the 
+**Emerging Technology- Digital Twins**: By creating virtual copies of processes, physical assets, and systems the 
 Digital Twins technology proposes a promising solution. Providing deep 
 insights into the performance and state of the resources, these digital 
 counterparts enable the organisation to real-time simulation, supervision, 
