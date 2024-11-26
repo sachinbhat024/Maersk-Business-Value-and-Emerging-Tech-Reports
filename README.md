@@ -6,12 +6,12 @@ This project explores the IT portfolio and resource-based view (RBV) strategies 
 ## Report 2: How investment in emerging Technologies can create Business Value for Maersk
 
 The implementation of Green Logistics Optimisation Tool will enable Maersk to 
-significantly enhance their sustainability agenda in today’s world of intensified  
-environmental awareness and regulatory pressures. Leveraging AI-driven analytics, this 
+significantly enhance their sustainability agenda in today’s world of intensified environmental awareness and regulatory pressures. Leveraging AI-driven analytics, this 
 novel tool improves the efficiency of shipping routes, transportation modes, and 
 optimises logistics operations with the main focus on reducing carbon emissions. 
 Incorporating this technology will enable Maersk to comply with the strict global 
 environmental standards while setting new benchmarks for the logistics industry. 
+
 The implementation of Green Logistics Optimisation Tool offers Maersk a great business 
 opportunity by directly catering to the growing market demand for environment friendly 
 logistics solutions. It provides a strategic approach to augment operational efficiency, 
